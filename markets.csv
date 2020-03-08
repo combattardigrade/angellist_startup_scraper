@@ -1,0 +1,501 @@
+id,title,url
+1,All Markets,https://angel.co/all-markets
+2,Information Technology,https://angel.co/information-technology
+3,Consumers,https://angel.co/consumers
+4,Enterprises,https://angel.co/enterprises
+5,Finance,https://angel.co/finance
+6,Healthcare,https://angel.co/health-care
+7,Media,https://angel.co/media-1
+8,Education,https://angel.co/education
+9,Health and Wellness,https://angel.co/health-and-wellness
+10,Web Development,https://angel.co/web-development
+11,Technology,https://angel.co/technology
+12,Platforms,https://angel.co/platforms
+13,Mobile Application,https://angel.co/mobile-application-3
+14,Retail,https://angel.co/retail
+15,Design,https://angel.co/design
+16,Real Estate,https://angel.co/real-estate-1
+17,Life Sciences,https://angel.co/life-sciences
+18,Automotive,https://angel.co/automotive
+19,Fashion,https://angel.co/fashion
+20,Travel,https://angel.co/travel-1
+21,Startups,https://angel.co/startups-1
+22,Digital Marketing,https://angel.co/digital-marketing-5
+23,Sports,https://angel.co/sports
+24,Ecommerce,https://angel.co/ecommerce-3
+25,Clean Technology,https://angel.co/clean-technology
+26,Fin Tech,https://angel.co/fintech-2
+27,Travel & Tourism,https://angel.co/travel-tourism
+28,Internet of Things,https://angel.co/internet-of-things
+29,Entertainment Industry,https://angel.co/entertainment-industry
+30,Energy,https://angel.co/energy-1
+31,Blockchains,https://angel.co/blockchains
+32,Consulting,https://angel.co/consulting-1
+33,Events,https://angel.co/events
+34,Education Technology,https://angel.co/education-technology
+35,Entertainment,https://angel.co/entertainment
+36,Restaurants,https://angel.co/restaurants-1
+37,Blockchain / Cryptocurrency,https://angel.co/blockchain-cryptocurrency-2
+38,Cryptocurrency,https://angel.co/cryptocurrency-2
+39,Manufacturing,https://angel.co/manufacturing-1
+40,Hospitality,https://angel.co/hospitality-1
+41,Human Resources,https://angel.co/human-resources
+42,Construction,https://angel.co/construction
+43,Agriculture,https://angel.co/agriculture
+44,Website,https://angel.co/website-3
+45,Beauty,https://angel.co/beauty
+46,Usa,https://angel.co/usa-2
+47,Logistics,https://angel.co/logistics
+48,Social Network,https://angel.co/social-network-2
+49,User Experience Design,https://angel.co/user-experience-design
+50,Art,https://angel.co/art
+51,Europe,https://angel.co/europe-2
+52,Medical Devices,https://angel.co/medical-devices
+53,Legal,https://angel.co/legal
+54,Nonprofits,https://angel.co/nonprofits
+55,Marketing,https://angel.co/marketing-1
+56,Apps,https://angel.co/apps
+57,Mobile Health,https://angel.co/mobile-health
+58,Virtual Reality,https://angel.co/virtual-reality-3
+59,Software Engineering,https://angel.co/software-engineering-3
+60,Global,https://angel.co/global-6
+61,IT Management,https://angel.co/it-management
+62,Aerospace,https://angel.co/aerospace
+63,Online Shopping,https://angel.co/online-shopping
+64,Investment Management,https://angel.co/investment-management
+65,Services,https://angel.co/services
+66,Food Tech,https://angel.co/food-tech-3
+67,Film Production,https://angel.co/film-production
+68,Business Development,https://angel.co/business-development
+69,Ventures for Good,https://angel.co/ventures-for-good
+70,Consumer,https://angel.co/consumer
+71,Project Management,https://angel.co/project-management
+72,Hotels,https://angel.co/hotels
+73,Graphic Design,https://angel.co/graphic-design-6
+74,Fashion Tech,https://angel.co/fashion-tech-3
+75,Sustainability,https://angel.co/sustainability
+76,Digital Health,https://angel.co/digital-health-3
+77,Artificial Intelligence / Machine Learning,https://angel.co/artificial-intelligence-machine-learning
+78,Online Marketplaces,https://angel.co/online-marketplaces-1
+79,Digital Entertainment,https://angel.co/digital-entertainment
+80,Sharing Economy,https://angel.co/sharing-economy-4
+81,Music Services,https://angel.co/music-services
+82,Hardware + Software,https://angel.co/hardware-software
+83,Healthcare Services,https://angel.co/healthcare-services
+84,Event Management,https://angel.co/event-management
+85,Cloud Data Services,https://angel.co/cloud-data-services
+86,Edtech,https://angel.co/edtech-2
+87,Subscription Businesses,https://angel.co/subscription-businesses
+88,Lifestyle,https://angel.co/lifestyle
+89,Curated Web,https://angel.co/curated-web
+90,South East Asia,https://angel.co/south-east-asia
+91,Hr Tech,https://angel.co/hr-tech-1
+92,Accounting,https://angel.co/accounting
+93,Freelancers,https://angel.co/freelancers
+94,B2B · SaaS · Mobile · Artificial Intelligence / Machine Learning,https://angel.co/b2b-saas-mobile-artificial-intelligence-machine-learning
+95,Entrepreneur,https://angel.co/entrepreneur-1
+96,Canada,https://angel.co/canada-2
+97,Financial Technology,https://angel.co/financial-technology-1
+98,Content Marketing,https://angel.co/content-marketing-3
+99,Legal Tech,https://angel.co/legal-tech-1
+100,Web Hosting,https://angel.co/web-hosting
+101,Home Decor,https://angel.co/home-decor
+102,Real Estate Technology,https://angel.co/real-estate-technology-1
+103,Pets,https://angel.co/pets
+104,Consulting Services,https://angel.co/consulting-services-1
+105,Supply Chain Management,https://angel.co/supply-chain-management
+106,Online Gaming,https://angel.co/online-gaming
+107,Oil and Gas,https://angel.co/oil-and-gas
+108,Residential Real Estate,https://angel.co/residential-real-estate
+109,Governments,https://angel.co/governments
+110,Trading,https://angel.co/trading
+111,Information Services,https://angel.co/information-services
+112,Wearables,https://angel.co/wearables-2
+113,Corporate Training,https://angel.co/corporate-training
+114,Educational Games,https://angel.co/educational-games
+115,Women's Apparel And Accessories,https://angel.co/women-s-apparel-and-accessories
+116,Higher Education,https://angel.co/higher-education-2
+117,Brand Development,https://angel.co/brand-development-4
+118,Australian Market,https://angel.co/australian-market
+119,Internet Marketing,https://angel.co/internet-marketing
+120,Independent Music,https://angel.co/independent-music
+121,Environmental Innovation,https://angel.co/environmental-innovation
+122,Home & Garden,https://angel.co/home-garden
+123,Social,https://angel.co/social-3
+124,Staffing Firms,https://angel.co/staffing-firms
+125,Furniture,https://angel.co/furniture-2
+126,Corporate IT,https://angel.co/corporate-it
+127,Content Discovery,https://angel.co/content-discovery
+128,Renewable Energies,https://angel.co/renewable-energies
+129,Cosmetics,https://angel.co/cosmetics
+130,Architecture,https://angel.co/architecture
+131,Sales,https://angel.co/sales
+132,Smart Home,https://angel.co/smart-home-1
+133,User Interface Design,https://angel.co/user-interface-design-1
+134,Luxury,https://angel.co/luxury-2
+135,Weddings,https://angel.co/weddings
+136,Mental Health,https://angel.co/mental-health-3
+137,Same Day Delivery,https://angel.co/same-day-delivery
+138,Management Consulting,https://angel.co/management-consulting-1
+139,Industrial Automation,https://angel.co/industrial-automation
+140,Interior Design,https://angel.co/interior-design
+141,Green,https://angel.co/green
+142,Networking,https://angel.co/networking
+143,Events Services,https://angel.co/events-services
+144,Public Relations,https://angel.co/public-relations
+145,Creative Industries,https://angel.co/creative-industries
+146,eSports,https://angel.co/esports-4
+147,Incubators,https://angel.co/incubators-4
+148,HR / Recruiting,https://angel.co/hr-recruiting-2
+149,Communications Software,https://angel.co/communications-software
+150,Innovation Engineering,https://angel.co/innovation-engineering
+151,Customer Experience,https://angel.co/customer-experience-2
+152,Nutrition,https://angel.co/nutrition
+153,Employment,https://angel.co/employment
+154,Data,https://angel.co/data
+155,Computers,https://angel.co/computers
+156,Online Education,https://angel.co/online-education
+157,Coworking,https://angel.co/coworking
+158,E Learn,https://angel.co/e-learn
+159,Outdoors,https://angel.co/outdoors
+160,Influencer Marketing,https://angel.co/influencer-marketing-2
+161,Professional Services,https://angel.co/professional-services
+162,Musicians,https://angel.co/musicians
+163,Digital Publishing,https://angel.co/digital-publishing-3
+164,Home Renovation,https://angel.co/home-renovation
+165,Medical Technologies,https://angel.co/medical-technologies
+166,Wholesale,https://angel.co/wholesale
+167,Live Entertainment,https://angel.co/live-entertainment
+168,United States,https://angel.co/united-states-4
+169,Politics,https://angel.co/politics
+170,New York,https://angel.co/new-york-2
+171,Deep Learning,https://angel.co/deep-learning-2
+172,Tourism,https://angel.co/tourism
+173,Content Creators,https://angel.co/content-creators
+174,Industrial,https://angel.co/industrial
+175,Natural Resources,https://angel.co/natural-resources
+176,China,https://angel.co/china-3
+177,Cleaning,https://angel.co/cleaning-1
+178,Cars,https://angel.co/cars-1
+179,Mobility,https://angel.co/mobility-1
+180,Online Rental,https://angel.co/online-rental
+181,Audio,https://angel.co/audio
+182,Advertising & Creative Agencies,https://angel.co/advertising-creative-agencies
+183,Shopping,https://angel.co/shopping
+184,Charity,https://angel.co/charity
+185,Smart City,https://angel.co/smart-city-2
+186,Home Automation,https://angel.co/home-automation-1
+187,Venue And Events,https://angel.co/venue-and-events
+188,Social Network Media,https://angel.co/social-network-media
+189,Business Analytics,https://angel.co/business-analytics
+190,Mass Customization,https://angel.co/mass-customization
+191,Government Innovation,https://angel.co/government-innovation
+192,Interior Design & Construction,https://angel.co/interior-design-construction
+193,Social Entrepreneurship,https://angel.co/social-entrepreneurship-1
+194,Nightlife,https://angel.co/nightlife
+195,Logistics / Transportation / Shipping,https://angel.co/logistics-transportation-shipping
+196,Health and Insurance,https://angel.co/health-and-insurance
+197,Fast-Moving Consumer Goods,https://angel.co/fast-moving-consumer-goods
+198,PC Gaming,https://angel.co/pc-gaming
+199,Universities,https://angel.co/universities
+200,Shipping,https://angel.co/shipping
+201,Data Visualization,https://angel.co/data-visualization
+202,Latin America,https://angel.co/latin-america
+203,Singapore,https://angel.co/singapore-2
+204,Community Development,https://angel.co/community-development-2
+205,Loans,https://angel.co/loans-1
+206,Logistics Software,https://angel.co/logistics-software
+207,Coffee,https://angel.co/coffee
+208,Private Equity,https://angel.co/private-equity-4
+209,Creative Strategy,https://angel.co/creative-strategy-1
+210,Classifieds,https://angel.co/classifieds
+211,Tours & Activities,https://angel.co/tours-activities
+212,Men's Apparel and Accessories,https://angel.co/men-s-apparel-and-accessories
+213,Engineering Firms,https://angel.co/engineering-firms
+214,Animation,https://angel.co/animation-3
+215,Content Delivery,https://angel.co/content-delivery
+216,Public Transportation,https://angel.co/public-transportation
+217,Home Improvement,https://angel.co/home-improvement-2
+218,Broadcasting,https://angel.co/broadcasting
+219,Film Distribution,https://angel.co/film-distribution
+220,Middle East,https://angel.co/middle-east-2
+221,Tutoring,https://angel.co/tutoring
+222,Personalization,https://angel.co/personalization
+223,3D Technology,https://angel.co/3d-technology
+224,Bars,https://angel.co/bars-2
+225,Collaborative Consumption,https://angel.co/collaborative-consumption
+226,Waste Management,https://angel.co/waste-management-1
+227,Public Safety,https://angel.co/public-safety
+228,Investors,https://angel.co/investors-1
+229,Payment Systems,https://angel.co/payment-systems
+230,Programming,https://angel.co/programming-6
+231,Distribution,https://angel.co/distribution
+232,Medical Marijuana Dispensaries,https://angel.co/medical-marijuana-dispensaries-1
+233,Writing,https://angel.co/writing-2
+234,Consumer Lending,https://angel.co/consumer-lending
+235,Personal Branding,https://angel.co/personal-branding
+236,Dietary Supplements,https://angel.co/dietary-supplements
+237,Pet Care,https://angel.co/pet-care
+238,Researchers,https://angel.co/researchers
+239,Property,https://angel.co/property
+240,Indian Diaspora,https://angel.co/indian-diaspora
+241,Farming,https://angel.co/farming
+242,College Campuses,https://angel.co/college-campuses
+243,PaaS,https://angel.co/paas
+244,Non Profit,https://angel.co/non-profit
+245,Toys,https://angel.co/toys
+246,Office Space,https://angel.co/office-space
+247,Recycling,https://angel.co/recycling
+248,Information Security,https://angel.co/information-security
+249,Career Management,https://angel.co/career-management
+250,Wearable Technologies,https://angel.co/wearable-technologies
+251,Wholesale Distribution,https://angel.co/wholesale-distribution
+252,Baby And Kids,https://angel.co/baby-and-kids
+253,Urban Mobility,https://angel.co/urban-mobility-1
+254,North America English For Now,https://angel.co/north-america-english-for-now
+255,Natural Skin Care,https://angel.co/natural-skin-care
+256,Ride Sharing,https://angel.co/ride-sharing-1
+257,Diagnostics,https://angel.co/diagnostics
+258,Social Enterprise,https://angel.co/social-enterprise
+259,Entrepreneurs,https://angel.co/entrepreneurs-1
+260,General Aviation,https://angel.co/general-aviation
+261,Knowledge Management,https://angel.co/knowledge-management
+262,Invest Online,https://angel.co/invest-online
+263,Craft Beer,https://angel.co/craft-beer
+264,Parking,https://angel.co/parking
+265,Smart Building,https://angel.co/smart-building
+266,Germany,https://angel.co/germany-3
+267,Emerging Markets,https://angel.co/emerging-markets
+268,Utilities,https://angel.co/utilities
+269,Food Trucks And/Or Restaurants,https://angel.co/food-trucks-and-or-restaurants
+270,Online Reservations,https://angel.co/online-reservations
+271,Colleges,https://angel.co/colleges-1
+272,Identity,https://angel.co/identity
+273,Social Innovation,https://angel.co/social-innovation
+274,Adtech,https://angel.co/adtech
+275,Taxis,https://angel.co/taxis
+276,Artists Globally,https://angel.co/artists-globally
+277,Direct Sales,https://angel.co/direct-sales
+278,Risk Management,https://angel.co/risk-management
+279,Event Planners,https://angel.co/event-planners
+280,East Africa,https://angel.co/east-africa
+281,Part Time Jobs,https://angel.co/part-time-jobs
+282,Lifestyle Products,https://angel.co/lifestyle-products
+283,Innovation Management,https://angel.co/innovation-management
+284,Teachers,https://angel.co/teachers
+285,Wealth Management,https://angel.co/wealth-management
+286,Science,https://angel.co/science-4
+287,Dating,https://angel.co/dating-2
+288,Ethical Fashion,https://angel.co/ethical-fashion-1
+289,Growth Hacker,https://angel.co/growth-hacker-1
+290,Translation,https://angel.co/translation
+291,Mortgage,https://angel.co/mortgage
+292,Leisure,https://angel.co/leisure
+293,Web CMS,https://angel.co/web-cms
+294,Gifts,https://angel.co/gifts
+295,TV Production,https://angel.co/tv-production
+296,B2 B Market – Sme’S Specifically,https://angel.co/b2b-market-sme-s-specifically
+297,High Tech,https://angel.co/high-tech
+298,Child Care,https://angel.co/child-care
+299,Hedge Funds,https://angel.co/hedge-funds
+300,Recreation,https://angel.co/recreation
+301,Virtual Reality / Augmented Reality,https://angel.co/virtual-reality-augmented-reality
+302,University And Educational Institutions,https://angel.co/university-and-educational-institutions
+303,Hyperlocal,https://angel.co/hyperlocal-1
+304,Employer Benefits Programs,https://angel.co/employer-benefits-programs
+305,Psychology,https://angel.co/psychology
+306,Stock Exchanges,https://angel.co/stock-exchanges
+307,Bitcoin Exchange,https://angel.co/bitcoin-exchange
+308,International Development,https://angel.co/international-development-1
+309,Lighting,https://angel.co/lighting
+310,Retail Grocery Chains,https://angel.co/retail-grocery-chains
+311,Doctors,https://angel.co/doctors
+312,Magazine,https://angel.co/magazine-3
+313,Platform For Influencers,https://angel.co/platform-for-influencers
+314,Creative,https://angel.co/creative-2
+315,Advising And Career Services,https://angel.co/advising-and-career-services
+316,Testing,https://angel.co/testing-13
+317,United Arab Emirates,https://angel.co/united-arab-emirates-1
+318,Career Planning,https://angel.co/career-planning
+319,Amazon,https://angel.co/amazon-5
+320,Green Building,https://angel.co/green-building
+321,Self Development,https://angel.co/self-development
+322,Soccer,https://angel.co/soccer
+323,Catering,https://angel.co/catering-2
+324,Promotional,https://angel.co/promotional
+325,Price Comparison,https://angel.co/price-comparison
+326,Administrative,https://angel.co/administrative-1
+327,Medical Professionals,https://angel.co/medical-professionals
+328,Trucking,https://angel.co/trucking-1
+329,High Schools,https://angel.co/high-schools
+330,DOD/Military,https://angel.co/dod-military
+331,Franchises,https://angel.co/franchises
+332,Operations,https://angel.co/operations-3
+333,Investment Banking,https://angel.co/investment-banking-1
+334,Indonesia,https://angel.co/indonesia-2
+335,Household Services,https://angel.co/household-services
+336,Console Gaming,https://angel.co/console-gaming
+337,Textiles,https://angel.co/textiles
+338,Insurance Companies,https://angel.co/insurance-companies
+339,Active Lifestyle,https://angel.co/active-lifestyle
+340,Spain,https://angel.co/spain-1
+341,Document Management,https://angel.co/document-management
+342,Web Tools,https://angel.co/web-tools
+343,Cooking,https://angel.co/cooking
+344,Connected Devices,https://angel.co/connected-devices-4
+345,Instant Booking,https://angel.co/instant-booking
+346,Music Streaming,https://angel.co/music-streaming
+347,Shoes,https://angel.co/shoes
+348,Consumer Packaged Goods,https://angel.co/consumer-packaged-goods-3
+349,Vr,https://angel.co/vr-2
+350,Home Owners,https://angel.co/home-owners
+351,"London, UK",https://angel.co/london-uk-2
+352,Smart Cities,https://angel.co/smart-cities-1
+353,Product Management,https://angel.co/product-management-1
+354,Cloud-Based Music,https://angel.co/cloud-based-music
+355,Discounts,https://angel.co/discounts
+356,Mentorship,https://angel.co/mentorship-1
+357,Hong Kong,https://angel.co/hong-kong-2
+358,Digital Media Marketing,https://angel.co/digital-media-marketing-1
+359,South Africa,https://angel.co/south-africa-1
+360,France,https://angel.co/france-3
+361,Internet Radio,https://angel.co/internet-radio-market
+362,Action Sports,https://angel.co/action-sports-2
+363,"Professionnal Training,Schools",https://angel.co/professionnal-training-schools
+364,Human Resource Automation,https://angel.co/human-resource-automation
+365,VoIP,https://angel.co/voip
+366,Concerts,https://angel.co/concerts
+367,Gym,https://angel.co/gym-2
+368,BPO Services,https://angel.co/bpo-services
+369,Yoga,https://angel.co/yoga-2
+370,Graphics,https://angel.co/graphics
+371,Chemicals,https://angel.co/chemicals
+372,Mining Technologies,https://angel.co/mining-technologies
+373,Online Scheduling,https://angel.co/online-scheduling
+374,B2B Express Delivery,https://angel.co/b2b-express-delivery
+375,Nanotechnology,https://angel.co/nanotechnology
+376,Quantified Self,https://angel.co/quantified-self
+377,Delhi,https://angel.co/delhi
+378,Fitness Gamification,https://angel.co/fitness-gamification
+379,File Sharing,https://angel.co/file-sharing
+380,Geospatial,https://angel.co/geospatial
+381,Technical Continuing Education,https://angel.co/technical-continuing-education
+382,Procurement,https://angel.co/procurement-1
+383,Mexico,https://angel.co/mexico-1
+384,Match-Making,https://angel.co/match-making
+385,Trade Platform,https://angel.co/trade-platform
+386,China Internet,https://angel.co/china-internet
+387,Blog,https://angel.co/blog-3
+388,Fashion Communities,https://angel.co/fashion-communities
+389,DIY,https://angel.co/diy
+390,Entertainment And Luxury Travel,https://angel.co/entertainment-and-luxury-travel
+391,Veterinary,https://angel.co/veterinary
+392,Rehabilitation,https://angel.co/rehabilitation
+393,Analytics / Data,https://angel.co/analytics-data
+394,Credit Cards,https://angel.co/credit-cards
+395,Postal and Courier Services,https://angel.co/postal-and-courier-services
+396,P2P Money Transfer,https://angel.co/p2p-money-transfer
+397,Building Products,https://angel.co/building-products
+398,Talent Analytics,https://angel.co/talent-analytics
+399,Handmade,https://angel.co/handmade
+400,Digital Storytelling,https://angel.co/digital-storytelling-1
+401,Athletes,https://angel.co/athletes
+402,mHealth,https://angel.co/mhealth
+403,Mumbai,https://angel.co/mumbai-1
+404,Collaboration Software,https://angel.co/collaboration-software-1
+405,Water Purification,https://angel.co/water-purification
+406,Organic,https://angel.co/organic-1
+407,"Behavioral Therapy, Aba Therapy, Autism, Psychology",https://angel.co/behavioral-therapy-aba-therapy-autism-psychology
+408,Intellectual Property,https://angel.co/intellectual-property
+409,Marijuana Edibles,https://angel.co/marijuana-edibles
+410,Foodtech,https://angel.co/foodtech-1
+411,Computer Science,https://angel.co/computer-science-1
+412,Full Stack Startup,https://angel.co/full-stack-startup
+413,User Experience Research,https://angel.co/user-experience-research-1
+414,Russian,https://angel.co/russian-1
+415,Online Auctions,https://angel.co/online-auctions
+416,Independent Music Labels,https://angel.co/independent-music-labels
+417,Gift Card,https://angel.co/gift-card
+418,Bloggers,https://angel.co/bloggers
+419,Young Entrepreneurs,https://angel.co/young-entrepreneurs
+420,Nightclubs,https://angel.co/nightclubs
+421,Virtual Workforces,https://angel.co/virtual-workforces
+422,Corporate Social Responsibility Management,https://angel.co/corporate-social-responsibility-management
+423,Men,https://angel.co/men-1
+424,Communications Infrastructure,https://angel.co/communications-infrastructure
+425,Network Security,https://angel.co/network-security
+426,ICT,https://angel.co/ict
+427,Stocks,https://angel.co/stocks-1
+428,Festivals,https://angel.co/festivals-1
+429,Boating Industry,https://angel.co/boating-industry
+430,Bio-Pharm,https://angel.co/bio-pharm
+431,Rapid Prototyping,https://angel.co/rapid-prototyping-3
+432,Brazil,https://angel.co/brazil-2
+433,Vietnam,https://angel.co/vietnam-1
+434,Senior Health,https://angel.co/senior-health
+435,Religion,https://angel.co/religion
+436,Space Travel,https://angel.co/space-travel
+437,Small Companies,https://angel.co/small-companies
+438,Artist Management,https://angel.co/artist-management-1
+439,Sports Stadiums,https://angel.co/sports-stadiums
+440,Business Travelers,https://angel.co/business-travelers
+441,Military Veterans,https://angel.co/military-veterans
+442,Electrical Distribution,https://angel.co/electrical-distribution
+443,Licensing,https://angel.co/licensing
+444,Business Process Management,https://angel.co/business-process-management-3
+445,Virtualization,https://angel.co/virtualization
+446,Malaysia,https://angel.co/malaysia-2
+447,South America,https://angel.co/south-america-2
+448,Exercise,https://angel.co/exercise
+449,Civil Engineers,https://angel.co/civil-engineers
+450,Visualization,https://angel.co/visualization
+451,Logistics Company,https://angel.co/logistics-company
+452,Theatre,https://angel.co/theatre
+453,Connected Cars,https://angel.co/connected-cars
+454,Unmanned Air Systems,https://angel.co/unmanned-air-systems
+455,People,https://angel.co/people-4
+456,Commodities,https://angel.co/commodities
+457,Celebrity,https://angel.co/celebrity
+458,Car,https://angel.co/car-1
+459,Humanitarian,https://angel.co/humanitarian
+460,Merchandising,https://angel.co/merchandising-2
+461,Cloud Security,https://angel.co/cloud-security
+462,Industrial Design,https://angel.co/industrial-design-3
+463,Google Apps,https://angel.co/google-apps
+464,Environmental Science,https://angel.co/environmental-science-2
+465,Renewable Tech,https://angel.co/renewable-tech
+466,Foreign Investments,https://angel.co/foreign-investments
+467,Boston,https://angel.co/boston-2
+468,Adult,https://angel.co/adult
+469,Ngo's,https://angel.co/ngo-s
+470,Public Sector,https://angel.co/public-sector-1
+471,Disruptive Models,https://angel.co/disruptive-models
+472,Biometrics,https://angel.co/biometrics
+473,"Washington, Dc",https://angel.co/washington-dc-1
+474,Content Management,https://angel.co/content-management-3
+475,Genetic Testing,https://angel.co/genetic-testing
+476,Social Search,https://angel.co/social-search
+477,Early Stage IT,https://angel.co/early-stage-it
+478,Federal Government,https://angel.co/federal-government-2
+479,Artificial Neural Networks,https://angel.co/artificial-neural-networks-1
+480,Mechanical Solutions,https://angel.co/mechanical-solutions
+481,Ux Designer,https://angel.co/ux-designer-2
+482,Distributed Systems,https://angel.co/distributed-systems-2
+483,IaaS,https://angel.co/iaas
+484,Mobile Analytics,https://angel.co/mobile-analytics
+485,International Operating Companies,https://angel.co/international-operating-companies
+486,Python,https://angel.co/python-2
+487,Early-Stage Technology,https://angel.co/early-stage-technology
+488,Aerial Robotics,https://angel.co/aerial-robotics-2
+489,Urban Development,https://angel.co/urban-development-1
+490,Oil & Gas,https://angel.co/oil-gas-2
+491,Account Management,https://angel.co/account-management-2
+492,Pre Seed,https://angel.co/pre-seed
+493,Economics,https://angel.co/economics-1
+494,"Bay Area, Ca",https://angel.co/bay-area-ca
+495,Copywriting,https://angel.co/copywriting-2
+496,Partnerships,https://angel.co/partnerships-2
+497,Students,https://angel.co/students-4
+498,Illustrations,https://angel.co/illustrations
+499,Statistic Analysis,https://angel.co/statistic-analysis
+500,Market,https://angel.co/market-4
